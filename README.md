@@ -3,7 +3,7 @@
 A simple and fun **JavaScript mini project** that displays a random quote each time you click a button. This project helped me practice DOM manipulation, event handling, and working with arrays in JavaScript.
 
 ## 🚀 Live Demo  
-🔗 [View Project Here](your-live-link)
+🔗 [View Project Here](https://umernadim.github.io/quote-generator/)
 
 ## 🛠️ Built With  
 - **HTML** – Structure of the app  
